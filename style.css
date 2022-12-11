@@ -669,7 +669,7 @@ html {
 .My__Publications_box {
   width: 363px;
   height: 301px;
-  background-image: url(/images/My__Publications.png);
+  background-image: url(./images/My__Publications.png);
   display: flex;
   justify-content: center;
 }
